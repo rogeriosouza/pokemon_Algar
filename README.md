@@ -1,4 +1,4 @@
-## https://github.com/rogeriosouza/pokemon_Algar/blob/master/pokemon
+## https://github.com/rogeriosouza/pokemon_Algar/blob/master/pokemon.jpg
 
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
